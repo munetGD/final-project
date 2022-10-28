@@ -1,0 +1,235 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    }
+
+h1{
+    color: white;
+    font-size: 60px;
+}
+.boxy{
+    background-color: white;
+    overflow: hidden;
+
+    position: sticky;
+    top: 0;
+    /* height: 110px;
+    width:auto;
+    margin: 0px; */
+
+}
+.boxy a{
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    font-size: 17px;
+    padding-top: 50px;
+    padding-right:30px;
+}
+.boxy .Golden{
+    float:left;
+    padding-top: 14px;
+    padding-left: 60px;
+}
+.hoi{
+    padding-top: 250px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.exyl{
+text-align: center;
+color: white;
+font-size: 20px;
+
+}
+.yeet{
+    margin-left: auto;
+    margin-right: auto;
+}
+.BigBox{
+    background-color:white;
+    margin-top: 400px;
+    height: 1700px;
+    width:auto;
+
+}
+.BigBox .Preston{
+    background-color: rgb(211, 49, 49);
+    margin-top: 70px;
+    margin-left: 100;
+    margin-right: 30;
+    width:850;
+
+}
+.waste{
+height:1px;
+}
+.BigBox .Preston .story{
+    float:right;
+    margin-right: 60px;
+}
+.footer{
+    height: 200px;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+.footer .trash2{
+height: 25px;
+}
+
+.footer .bottom{
+    text-align:center;
+    margin-top:50px;
+
+}
+.footer .trash3{
+    height: 55px;
+    background-color: white;
+    }
+.sell{
+    text-align:center;
+    margin-top:140px;
+    font-size: 40px;
+    color:rgb(207, 2, 2);
+    font-family:'Times New Roman', Times, serif
+}
+section{
+    height: 100vh;
+    width: 100%;
+    background-color:rgb(255, 203, 203);
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+}
+section .container{
+    width: 90%;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    /* box-shadow: 0px 0px 20px ;
+    background-color: rgb(255, 118, 118); */
+    margin-bottom: 200px;
+    margin-top: 200px;
+}
+.formgroup{
+    width:100%;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+.formgroup input, .formgroup textarea{
+    width:100%;
+    padding: 5px;
+    font-size: 18px;
+    border: 1px solid purple;
+    margin-top: 5px;
+}
+textarea{
+    resize: vertical;
+}
+button[type="submit"]{
+    width:100%;
+    border: none;
+    outline: none;
+    padding: 20px;
+    font-size: 24px;
+    border-radius: 8px;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+    cursor:pointer;
+    margin-top: 10px;
+    transition: .3s ease background-color;
+}
+button[type="submit"]:hover{
+    background-color:rgb(170, 170, 170);
+}
+h2{    
+    text-align:center;
+    margin-top:0px;
+    font-size: 30px;
+
+    font-family:'Times New Roman', Times, serif
+
+}
+.footer .twitter {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+  }
+  .footer .linkedin {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -78px 0;
+  }
+  .footer .facebook {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -233px 0;
+  }
+  .footer .skype {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -156px 0;
+  }
+  .footer .flickr {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -310px 0
+  }
+  .footer a {
+    height: 56px;
+    width: 56px;
+    display: inline-block;
+    margin: 10px;
+}
+.icon{
+    margin-left: 37%;
+}
+.wwo{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.where{
+    margin-right: 15%;
+    margin-left: 15%;
+    font-size: 16px;
+}
+.vido{
+    margin-left: 17%;
+    margin-top: 25px;
+}
+.mike{
+    margin-left:70px;
+    margin-top: 10px;
+}
+
+
+.teem{
+    background-color:rgba(241,223,229,255);
+}
+.team{
+    margin-top: 120px;
+    font-size: 39px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pics{
+height: 280px;
+width: auto;
+margin-left: 14%;
+margin-top: 50px;
+margin-bottom: 20px;
+}
